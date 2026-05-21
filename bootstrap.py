@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/victor-godcore-10-algorithms/bootstrap.py
