@@ -1,1 +1,9 @@
-cat /home/workdir/artifacts/victor-godcore-10-algorithms/.gitignore
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+.venv/
+dist/
+build/
+*.egg-info/

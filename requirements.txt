@@ -1,1 +1,6 @@
-cat /home/workdir/artifacts/victor-godcore-10-algorithms/requirements.txt
+numpy>=1.24
+torch>=2.0
+networkx>=3.0
+matplotlib>=3.7
+scipy>=1.10
+# Optional for advanced: z3-solver for formal verification, numba
