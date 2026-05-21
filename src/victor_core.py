@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/victor-godcore-10-algorithms/src/victor_core.py | head -c 5000

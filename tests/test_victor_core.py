@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/victor-godcore-10-algorithms/tests/test_victor_core.py
